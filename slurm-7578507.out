@@ -1,0 +1,193 @@
+mkdir: cannot create directory ‘/uufs/chpc.utah.edu/common/home/u1079968/codes/bingo/tmp’: File exists
+/uufs/chpc.utah.edu/common/home/u1079968/codes/bingo/bingo/symbolic_regression/__init__.py:31: UserWarning: Could not load C++ modules No module named 'bingocpp'
+  warnings.warn(f"Could not load C++ modules {import_err}")
+error with proposal creation
+/uufs/chpc.utah.edu/common/home/u1079968/codes/SMCPy/smcpy/smc/particles.py:192: UserWarning: Covariance matrix is not positive definite; setting off-diagonal terms to zero.
+  warnings.warn('Covariance matrix is not positive definite; setting '
+/uufs/chpc.utah.edu/common/home/u1079968/codes/bingo/bingo/symbolic_regression/bayes_fitness/bayes_fitness_function.py:106: RuntimeWarning: Mean of empty slice
+  return np.nanmean(nmlls)
+/uufs/chpc.utah.edu/common/home/u1079968/codes/bingo/bingo/symbolic_regression/agraph/evaluation_backend/operator_eval.py:166: RuntimeWarning: overflow encountered in power
+  return np.power(forward_eval[param1], forward_eval[param2])
+/uufs/chpc.utah.edu/common/home/u1079968/codes/SMCPy/smcpy/log_likelihoods.py:43: RuntimeWarning: overflow encountered in square
+  ssqe = np.sum((output - data) ** 2, axis=1)
+/uufs/chpc.utah.edu/common/home/u1079968/codes/SMCPy/smcpy/mcmc/mcmc_base.py:172: RuntimeWarning: overflow encountered in square
+  squared_errors = np.square(self._data-output)
+/uufs/chpc.utah.edu/common/home/u1079968/codes/bingo/bingo/symbolic_regression/agraph/evaluation_backend/operator_eval.py:78: RuntimeWarning: overflow encountered in multiply
+  return forward_eval[param1] * forward_eval[param2]
+error with proposal creation
+error with proposal creation
+/uufs/chpc.utah.edu/common/home/u1079968/.conda/envs/myenv/lib/python3.7/site-packages/numpy/core/fromnumeric.py:87: RuntimeWarning: overflow encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+******************/0.95\******************
+error with proposal creation
+error with proposal creation
+error with proposal creation
+/uufs/chpc.utah.edu/common/home/u1079968/.conda/envs/myenv/lib/python3.7/site-packages/scipy/stats/_multivariate.py:664: RuntimeWarning: covariance is not positive-semidefinite.
+  out = random_state.multivariate_normal(mean, cov, size)
+error with proposal creation
+******************/0.93\******************
+error with proposal creation
+error with proposal creation
+error with proposal creation
+/uufs/chpc.utah.edu/common/home/u1079968/codes/SMCPy/smcpy/log_likelihoods.py:46: RuntimeWarning: overflow encountered in true_divide
+  term2 = -1 / 2. * ssqe / var
+******************/0.96\******************
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+******************/0.92\******************
+error with proposal creation
+error with proposal creation
+error with proposal creation
+******************/0.96\******************
+error with proposal creation
+fail
+error with proposal creation
+******************/0.96\******************
+error with proposal creation
+error with proposal creation
+******************/0.98\******************
+error with proposal creation
+error with proposal creation
+error with proposal creation
+******************/0.95\******************
+error with proposal creation
+error with proposal creation
+******************/0.96\******************
+error with proposal creation
+error with proposal creation
+error with proposal creation
+******************/0.95\******************
+error with proposal creation
+error with proposal creation
+error with proposal creation
+******************/0.95\******************
+error with proposal creation
+error with proposal creation
+error with proposal creation
+******************/0.92\******************
+fail
+error with proposal creation
+error with proposal creation
+******************/0.95\******************
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+******************/0.93\******************
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+******************/0.94\******************
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+******************/0.93\******************
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+******************/0.94\******************
+error with proposal creation
+error with proposal creation
+error with proposal creation
+******************/0.94\******************
+error with proposal creation
+error with proposal creation
+error with proposal creation
+******************/0.94\******************
+error with proposal creation
+error with proposal creation
+******************/0.93\******************
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+******************/0.91\******************
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+******************/0.89\******************
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+/uufs/chpc.utah.edu/common/home/u1079968/codes/bingo/bingo/symbolic_regression/agraph/evaluation_backend/operator_eval.py:84: RuntimeWarning: overflow encountered in double_scalars
+  reverse_eval[param2] += reverse_eval[reverse_index]*forward_eval[param1]
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+******************/0.91\******************
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+******************/0.92\******************
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+******************/0.9\******************
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+******************/0.92\******************
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+******************/0.91\******************
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+******************/0.9\******************
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+******************/0.92\******************
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+error with proposal creation
+******************/0.93\******************
