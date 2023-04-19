@@ -9,7 +9,7 @@ models = ["1.0*sin(X_0) + 1.0",
 
 
 dims = [1,2,3]
-n = 1000
+n = 100
 
 for model, dim in zip(models, dims):
 

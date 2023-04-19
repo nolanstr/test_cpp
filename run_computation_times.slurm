@@ -11,9 +11,7 @@
 ##SBATCH --pty 
 ##SBATCH --qos=hochhalter-high-np
 
-#pwd
-
-#python test.py bingo_cpp
+python test.py bingo_cpp
 
 mkdir ~/codes/bingo/tmp
 mv ~/codes/bingo/bingocpp ~/codes/bingo/tmp/.

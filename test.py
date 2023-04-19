@@ -48,7 +48,7 @@ def time_code(dim, run, n=100):
                        'mcmc_steps':10,
                        'ess_threshold':0.75}
     multisource_info = None
-    random_sample_info = 50 
+    random_sample_info = None 
 
     bff = BayesFitnessFunction(local_opt_fitness,
                                    smc_hyperparams,
